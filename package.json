@@ -1,0 +1,16 @@
+{
+  "name": "svift-render-video",
+  "version": "1.0.0",
+  "description": "Module to render a video from a sequence of images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/svift/render-video-module.git"
+  },
+  "author": "Sebastian Meier",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/svift/render-video-module#readme"
+}

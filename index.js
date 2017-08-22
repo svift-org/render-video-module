@@ -27,7 +27,7 @@ var render = (function () {
       name = split[split.length-1]
     
     ffmpeg()
-      .addInput(folder + '/png/%d.png')
+      .addInput(folder + '/png/%03d.png')
       .fps(30)
       .size(width + 'x' + height)
       .videoCodec('libx264')

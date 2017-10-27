@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/svift/render-video-module.git"
+    "url": "git+https://git@github.com/svift-org/render-video-module.git"
   },
   "author": "Sebastian Meier",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/svift/render-video-module#readme",
+  "homepage": "https://github.com/svift-org/render-video-module#readme",
   "dependencies": {
     "fluent-ffmpeg": "^2.1.2"
   }
